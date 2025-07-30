@@ -1,0 +1,35 @@
+## Build output
+bin/
+obj/
+publish/
+
+## Visual Studio/VS Code
+.vscode/
+*.user
+*.suo
+
+## Temporary files
+*.log
+*.tmp
+
+## OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Rider/JetBrains IDEs
+.idea/
+
+## ASP.NET-specific (if ever added)
+project.lock.json
+project.fragment.lock.json
+
+## Global .NET artifacts
+*.nupkg
+*.snupkg
+
+## Personal secrets or environment overrides
+*.env
+secrets.json
+appsettings.*.json
